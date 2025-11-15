@@ -47,3 +47,7 @@ Los resultados muestran que una de las problemáticas más generalizadas en el t
 
 *Los datos pueden encontrarse en el siguiente enlace:*  
 [ENCIG 2017 - INEGI](https://www.inegi.org.mx/programas/encig/2017/)
+
+![](corrupcion_pais.png)
+
+![](corrupcion_instituciones.png)
